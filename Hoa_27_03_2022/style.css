@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ul,li{
+    list-style: none;
+}
+
+.header__menu-top{
+    height: 40px;
+}
+
+.header__menu-top .login{
+    padding-left: 20px;
+}
+
+.header .list__items{
+    padding: 10px;
+}
+
+.header .order{
+    padding-left: 20px;
+}
+.header .menu-bottom__list{
+    margin-bottom: 0;
+}
